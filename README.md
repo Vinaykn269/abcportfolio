@@ -1,2 +1,0 @@
-# abcportfolio
-simple portfolio website
